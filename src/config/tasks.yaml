@@ -1,0 +1,7 @@
+chat_task:
+  description: >
+    Answer user questions using up-to-date content from Planto.ai. Scrape the homepage and relevant pages to gather answers.
+
+    Question: {user_input}
+  expected_output: >
+    A helpful, conversational answer to the user's question, based solely on the scraped website content.
